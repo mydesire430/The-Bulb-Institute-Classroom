@@ -1,0 +1,14 @@
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\bin\Debug\net6.0\Arrayofstrings.SO.exe
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\bin\Debug\net6.0\Arrayofstrings.SO.deps.json
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\bin\Debug\net6.0\Arrayofstrings.SO.runtimeconfig.json
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\bin\Debug\net6.0\Arrayofstrings.SO.dll
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\bin\Debug\net6.0\Arrayofstrings.SO.pdb
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.AssemblyInfo.cs
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.dll
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\refint\Arrayofstrings.SO.dll
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.pdb
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\Arrayofstrings.SO.genruntimeconfig.cache
+C:\thebulbassignment\Arrayofstrings.SO\Arrayofstrings.SO\obj\Debug\net6.0\ref\Arrayofstrings.SO.dll
